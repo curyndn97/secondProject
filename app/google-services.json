@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289087570174",
+    "firebase_url": "https://myabmob-advertising.firebaseio.com",
+    "project_id": "myabmob-advertising",
+    "storage_bucket": "myabmob-advertising.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289087570174:android:d4b23c83b16a4b1a",
+        "android_client_info": {
+          "package_name": "com.example.ka.abmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289087570174-9emj5hgujlldsah9k8la7v3j41tft8ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ka.abmob",
+            "certificate_hash": "52c740955c44f6bab44d5262d8a7d56acc31b128"
+          }
+        },
+        {
+          "client_id": "289087570174-1tcsladaoq35njv9d0f102cckjhfii89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfhtHNtQg09FGcyJ-N_gwmcLsjPl4W5do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289087570174-1tcsladaoq35njv9d0f102cckjhfii89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
